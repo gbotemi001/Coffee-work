@@ -12,10 +12,18 @@ body{
    font-size: 100px;
    margin-left: 2px;
 }
+p{
+    color: #ccc;
+    font-size: 25px;
+    font-weight: 600;
+    text-transform:capitalize;
+    text-align: center;
+}
 .tc{
 background-color: gray;
 border: 0;
 border-radius: 3px;
+
 }
 .lm{
     border-radius: 4px; 
